@@ -349,5 +349,6 @@ healthchecksdb
 MigrationBackup/
 
 YiSha.Web/YiSha.Admin.Web/DataProtection
+YiSha.Web/YiSha.Admin.WebApi/DataProtection
 YiSha.Web/YiSha.Admin.Web/appsettings.json
 YiSha.Web/YiSha.Admin.WebApi/appsettings.json
